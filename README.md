@@ -9,7 +9,7 @@ Generalizing. Proving my path in one ambient can be rewarded
   1. If I can prove I went through  a place at a specific time and a client was advertizing its new product at that place at that time I could be rewarded with a discount on purchasing the advertized thing.
   2. If I can prove my car is making a path, I could be asked for an evaluation of the traffic situation and be rewarded with a discount on  fuel by the sorrounding petrol stations.
   3. If I can prove I was in a shop , I could get the right to download a market feedback questionary on the product I bought and receive a discount on the next. 
-  4. 
+  4. If I can prove I was in a museum, I could get a customer satisfaction module and get a discount on another museum entry fee to fill it.
   
 ## Pacman for people.
 
